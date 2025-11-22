@@ -1,10 +1,10 @@
 # About Me:
 Hey, I’m Alex — a Cybersecurity Data Engineer and full-stack developer who specializes in building AI-powered, scalable systems that bring complex ideas to life.<br><br>
 I’ve built and deployed production-grade software across multiple industries, including:<br>
-Company payroll & workforce systems used in real operations
-A B2B real-estate & claims marketplace (ClaimsConnect) with integrated data pipelines, workflow automation, and user-facing dashboards
-A self-learning, self-deploying workforce of AI agents, designed for autonomous tool use, decision-making, and frontend visualization
-AI-driven education platforms, stock-trading tools, and sports analytics dashboards
+  * Company payroll & workforce systems used in real operations
+  * A B2B real-estate & claims marketplace (ClaimsConnect) with integrated data pipelines, workflow automation, and user-facing dashboards
+  * A self-learning, self-deploying workforce of AI agents, designed for autonomous tool use, decision-making, and frontend visualization
+  * AI-driven education platforms, stock-trading tools, and sports analytics dashboards
 <br>
 My background blends data engineering, AI/LLM integrations, frontend product design, backend automation, and secure cloud architecture. I love turning abstract concepts into real products — fast, clean, and scalable.<br><br>
 I’m currently looking for opportunities to collaborate on high-impact AI products, ML-driven engineering systems, or full-stack platforms with ambitious teams.<br><br>
