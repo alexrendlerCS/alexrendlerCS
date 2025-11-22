@@ -1,22 +1,21 @@
 # About Me:
-Hey, I’m Alex — a Cybersecurity Data Engineer and full-stack developer who specializes in building AI-powered, scalable systems that bring complex ideas to life.
-I’ve built and deployed production-grade software across industries, including:
-Company payroll & workforce systems used for real operations
-A B2B real-estate & claims marketplace (ClaimsConnect) integrating data pipelines, user flows, and automation
-A self-learning, self-deploying workforce of AI agents, focusing on autonomous tool use and frontend visualization
-AI-driven education platforms, stock-trading systems, and sports analytics dashboards
-My background blends data engineering, AI/LLM integrations, frontend product design, backend automation, and secure cloud architecture. I love turning abstract concepts into real products — fast, clean, and scalable.
-I’m currently looking for opportunities to collaborate on high-impact AI products, ML-driven engineering systems, or full-stack platforms with ambitious teams.
+Hey, I’m Alex — a Cybersecurity Data Engineer and full-stack developer who specializes in building AI-powered, scalable systems that bring complex ideas to life.<br><br>
+I’ve built and deployed production-grade software across multiple industries, including:<br>
+Company payroll & workforce systems used in real operations
+A B2B real-estate & claims marketplace (ClaimsConnect) with integrated data pipelines, workflow automation, and user-facing dashboards
+A self-learning, self-deploying workforce of AI agents, designed for autonomous tool use, decision-making, and frontend visualization
+AI-driven education platforms, stock-trading tools, and sports analytics dashboards
+<br>
+My background blends data engineering, AI/LLM integrations, frontend product design, backend automation, and secure cloud architecture. I love turning abstract concepts into real products — fast, clean, and scalable.<br><br>
+I’m currently looking for opportunities to collaborate on high-impact AI products, ML-driven engineering systems, or full-stack platforms with ambitious teams.<br><br>
 Let’s connect and build something incredible.
 
 
-## Socials:
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rendler)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexrendler@yahoo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://rendlr.dev/about)
 
-# Tech Stack:
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
